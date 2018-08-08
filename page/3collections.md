@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collections
+title: Coleção
 permalink: /collection/
 icon: bookmark
 type: page
@@ -13,27 +13,27 @@ type: page
 
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
-    生成 box-shadow 的工具。
+    box-shadow
 
 * [gradient-generator](http://www.cssmatic.com/gradient-generator)
 
-    渐变生成器。
+    Test
 
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
-    也是渐变生成器
+    Test
 
 * [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
 
-    CSS3 生成器
+    CSS3
 
 - [tiny png](https://tinypng.com/)
 
-    用于压缩 png 或 jpg 的在线工具
+    PNG,JPG
 
 * [图床 https://sm.ms/](https://sm.ms/)
 
-    有 API 可用。
+    API
 
 * [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed)
 
@@ -288,7 +288,7 @@ Syntax Theme: Atom Dark or One Dark
 
 - [https://gyrosco.pe/](https://gyrosco.pe/)
 
-    首页的卡片翻动效果非常赞。
+    Nilsonlinux。
 
 ## Comments
 
